@@ -1,2 +1,2 @@
 # gocrud
-Sample project using Go, Postgres, and AWS implementing a simple CRUD REST API
+Sample project using Go, SurrealDb, and AWS implementing a simple CRUD REST API
